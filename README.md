@@ -1,140 +1,171 @@
-<h1 align="center">Hi 👋, I'm S R Viswaakarsan</h1>
-<h3 align="center">Data Analyst | AI & ML Engineer | Software Development</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Engineer;Data+Analyst;Java+Developer;Always+Learning+New+Technologies" />
-</p>
+# 👋 Hi, I'm S R Viswaakarsan
 
----
+### 📊 Data Analyst | AI & ML Engineer | Python Developer
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;AI+%26+ML+Engineer;Python+Developer;Turning+Data+into+Insights+📊"/>
 
-🎓 Final Year B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+<img src="https://komarev.com/ghpvc/?username=Ak1428&label=Profile+Views&style=for-the-badge&color=blue"/>
 
-💡 Passionate about building scalable software, developing intelligent AI solutions, and transforming data into actionable insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viswa-akarsan-a6699928a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://ak1428.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-viswa.ak.0406%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:viswa.ak.0406@gmail.com)
 
-🌱 Currently Learning
-- Spring Boot
-- React.js
-- Data Structures & Algorithms
-- Machine Learning
-- Data Analytics
+</div>
 
 ---
 
-## 🎯 Target Roles
+# 📊 About Me
 
-- 💻 Software Development Engineer (SDE)
-- 🤖 AI/ML Engineer
+🎓 Final Year B.Tech Computer Science & Engineering (AI & ML)
+
+I enjoy analyzing data, building machine learning models, and developing solutions that help organizations make data-driven decisions.
+
+---
+
+# 🎯 Target Roles
+
 - 📊 Data Analyst
+- 📈 Business Analyst
+- 🤖 AI & ML Engineer
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Technical Skills
 
-### 🤖 AI-Powered Freelancing Platform
-- Developed a full-stack freelancing platform using Java, MongoDB, and REST APIs.
-- Implemented secure authentication, user management, and job posting features.
-- Designed scalable backend services.
+### Programming
 
-### 📈 Machine Learning Forecasting System
-- Built an end-to-end forecasting application using Machine Learning.
-- Implemented ARIMA, Prophet, LSTM, and XGBoost models.
-- Developed REST APIs for prediction and visualization.
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode"/>
 
-### 🔥 Autonomous Fire Fighting Robot
-- Designed an autonomous fire-fighting robot using Arduino Uno.
-- Detects fire using flame sensors.
-- Automatically navigates toward the fire source.
-- Activates a water pump to extinguish flames.
-- Uses L298N Motor Driver, Relay Module, Servo Motor, and DC Motors.
+### Data Analytics
 
-### 🗄 Database Management System
-- Designed a normalized relational database.
-- Implemented CRUD operations using SQL.
-- Ensured efficient data management and integrity.
-
-### 🌐 Portfolio Website
-- Built a responsive personal portfolio website.
-- Showcases projects, technical skills, certifications, and achievements.
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-- Java
 - Python
-- JavaScript
 - SQL
-- C
-
-### Web Development
-- HTML
-- CSS
-- React.js
-- Spring Boot
-- REST APIs
-
-### Machine Learning & AI
-- TensorFlow
-- Scikit-learn
 - Pandas
 - NumPy
-- OpenCV
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+
+### Machine Learning
+
+- Scikit-learn
+- TensorFlow
+- ARIMA
+- Prophet
+- LSTM
+- XGBoost
 
 ### Databases
-- MySQL
-- MongoDB
-- SQLite
 
-### IoT & Embedded Systems
-- Arduino Uno
-- Sensors
-- Embedded Systems
+- MySQL
+- SQLite
+- MongoDB
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
 - Postman
+- Excel
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 📈 Machine Learning Forecasting System
+
+- Time-series forecasting using ARIMA, Prophet, LSTM, and XGBoost
+- Data preprocessing and feature engineering
+- REST API for predictions
+
+---
+
+## 📊 Data Analytics Projects
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Creation
+- Data Visualization
+- SQL Queries & Insights
+
+---
+
+## 🗄 Database Management System
+
+- Relational Database Design
+- SQL CRUD Operations
+- Database Normalization
+
+---
+
+## 🤖 AI-Powered Freelancing Platform
+
+- User Authentication
+- REST APIs
+- MongoDB Integration
+
+---
+
+## 🔥 Autonomous Fire Fighting Robot
+
+- Arduino Uno
+- Sensor Integration
+- Embedded System Development
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Ak1428&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-💼 **LinkedIn:** https://www.linkedin.com/in/viswa-akarsan-a6699928a
-
-🌍 **Portfolio:** https://ak1428.github.io/portfolio/
-
-📧 **Email:** viswa.ak.0406@gmail.com
-
----
-
-## 🎯 Career Goals
-
-- 💻 Become a skilled Software Development Engineer
-- 🤖 Build impactful AI & Machine Learning solutions
-- 📊 Develop expertise in Data Analytics and Business Intelligence
-- 🌱 Contribute to Open Source projects
-- 🚀 Continuously learn and build innovative applications
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories! ⭐
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ak1428&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **viswa.ak.0406@gmail.com**
+
+💼 LinkedIn:
+**https://www.linkedin.com/in/viswa-akarsan-a6699928a**
+
+🌐 Portfolio:
+**https://ak1428.github.io/portfolio/**
+
+---
+
+<div align="center">
+
+### 📊 "Without data, you're just another person with an opinion."
+
+⭐ Thanks for visiting my GitHub Profile!
+
+</div>
