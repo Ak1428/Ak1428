@@ -117,11 +117,11 @@
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn:** *(Add your LinkedIn profile link)*
+💼 **LinkedIn:** https://www.linkedin.com/in/viswa-akarsan-a6699928a
 
 🌍 **Portfolio:** https://ak1428.github.io/portfolio/
 
-📧 **Email:** *(Add your email address)*
+📧 **Email:** viswa.ak.0406@gmail.com
 
 ---
 
