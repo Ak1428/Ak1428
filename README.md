@@ -1,130 +1,140 @@
 <h1 align="center">Hi 👋, I'm S R Viswaakarsan</h1>
-<h3 align="center">Software Developer | AI & ML Engineer | IoT Enthusiast</h3>
+<h3 align="center">Data Analyst | AI & ML Engineer | Software Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Engineer;Java+Developer;Full+Stack+Learner;Open+to+Software+Development+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+ML+Engineer;Data+Analyst;Java+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science & Engineering (AI & ML)
+🎓 Final Year B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-💻 Passionate about Software Development, Machine Learning, Artificial Intelligence, and IoT.
+💡 Passionate about building scalable software, developing intelligent AI solutions, and transforming data into actionable insights.
 
-🌱 Currently learning:
+🌱 Currently Learning
 - Spring Boot
 - React.js
 - Data Structures & Algorithms
 - Machine Learning
-
-🎯 Seeking opportunities as:
-- Software Developer
-- Java Developer
-- Full Stack Developer
-- AI/ML Engineer
-- Data Analyst
+- Data Analytics
 
 ---
 
-# 🚀 Featured Projects
+## 🎯 Target Roles
 
-## 🤖 AI-Powered Freelancing Platform
-- Built a full-stack freelancing platform using Java, MongoDB, and REST APIs.
-- Implemented secure authentication and project management features.
-- Designed scalable backend APIs.
-
----
-
-## 📈 Machine Learning Forecasting System
-- Developed an end-to-end forecasting application using Machine Learning.
-- Applied ARIMA, Prophet, LSTM, and XGBoost models.
-- Built REST APIs for prediction and visualization.
+- 💻 Software Development Engineer (SDE)
+- 🤖 AI/ML Engineer
+- 📊 Data Analyst
 
 ---
 
-## 🔥 Autonomous Fire Fighting Robot
-- Designed and developed an autonomous fire-fighting robot using Arduino Uno.
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Freelancing Platform
+- Developed a full-stack freelancing platform using Java, MongoDB, and REST APIs.
+- Implemented secure authentication, user management, and job posting features.
+- Designed scalable backend services.
+
+### 📈 Machine Learning Forecasting System
+- Built an end-to-end forecasting application using Machine Learning.
+- Implemented ARIMA, Prophet, LSTM, and XGBoost models.
+- Developed REST APIs for prediction and visualization.
+
+### 🔥 Autonomous Fire Fighting Robot
+- Designed an autonomous fire-fighting robot using Arduino Uno.
 - Detects fire using flame sensors.
-- Automatically moves toward the fire source.
+- Automatically navigates toward the fire source.
 - Activates a water pump to extinguish flames.
-- Uses L298N Motor Driver, Servo Motor, Relay Module, and DC Motors.
+- Uses L298N Motor Driver, Relay Module, Servo Motor, and DC Motors.
 
----
-
-## 🗄 Database Management System
+### 🗄 Database Management System
 - Designed a normalized relational database.
 - Implemented CRUD operations using SQL.
-- Focused on efficient data management and integrity.
+- Ensured efficient data management and integrity.
+
+### 🌐 Portfolio Website
+- Built a responsive personal portfolio website.
+- Showcases projects, technical skills, certifications, and achievements.
 
 ---
 
-## 🌐 Portfolio Website
-- Personal portfolio showcasing projects, skills, and certifications.
-- Responsive design built with HTML, CSS, and JavaScript.
+## 💻 Technical Skills
 
----
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
+- C
 
-# 💻 Tech Stack
+### Web Development
+- HTML
+- CSS
+- React.js
+- Spring Boot
+- REST APIs
 
-### Languages
-Java • Python • JavaScript • SQL • C
+### Machine Learning & AI
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
 
-### Frontend
-HTML • CSS • React
+### Databases
+- MySQL
+- MongoDB
+- SQLite
 
-### Backend
-Spring Boot • REST APIs
-
-### Machine Learning
-TensorFlow • Scikit-Learn • Pandas • NumPy • OpenCV
-
-### Database
-MySQL • MongoDB • SQLite
-
-### IoT
-Arduino Uno • Sensors • Embedded Systems
+### IoT & Embedded Systems
+- Arduino Uno
+- Sensors
+- Embedded Systems
 
 ### Tools
-Git • GitHub • VS Code • IntelliJ IDEA • Postman
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ak1428&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect With Me
-
-💼 LinkedIn: **Your LinkedIn Profile**
-
-🌍 Portfolio: **https://ak1428.github.io/portfolio/**
-
-📧 Email: **Your Email Address**
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ak1428&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🎯 2026 Goals
+## 🌐 Connect With Me
 
-✅ Secure a Software Developer role
+💼 **LinkedIn:** *(Add your LinkedIn profile link)*
 
-✅ Contribute to Open Source
+🌍 **Portfolio:** https://ak1428.github.io/portfolio/
 
-✅ Master Spring Boot & React
+📧 **Email:** *(Add your email address)*
 
-✅ Build impactful AI & IoT projects
+---
 
-✅ Strengthen Data Structures & Algorithms
+## 🎯 Career Goals
+
+- 💻 Become a skilled Software Development Engineer
+- 🤖 Build impactful AI & Machine Learning solutions
+- 📊 Develop expertise in Data Analytics and Business Intelligence
+- 🌱 Contribute to Open Source projects
+- 🚀 Continuously learn and build innovative applications
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. ⭐
+⭐ If you like my work, consider giving a star to my repositories! ⭐
 </p>
