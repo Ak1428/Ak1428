@@ -1,14 +1,26 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=S%20R%20Viswaakarsan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20AI%20&%20ML%20Engineer%20|%20Software%20Developer&descAlignY=60"/>
+
 # 👋 Hi, I'm S R Viswaakarsan
 
-### 📊 Data Analyst | 🤖 AI & ML Engineer | 🐍 Python Developer
+### 📊 Data Analyst | 🤖 AI & ML Engineer | 💻 Software Developer
 
-**Turning Data into Insights through Analytics, Machine Learning, and Data-Driven Solutions**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;AI+%26+ML+Engineer;Software+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswa-akarsan-a6699928a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ak1428.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viswa.ak.0406@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/viswa-akarsan-a6699928a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ak1428.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge"/>
+</a>
+
+<a href="mailto:viswa.ak.0406@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -16,17 +28,19 @@
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+🎓 Final Year B.Tech in Computer Science & Engineering (AI & ML)
 
-💡 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and solving real-world problems using data.
+💡 Passionate about Data Analytics, Artificial Intelligence, Machine Learning, and Software Development.
 
-🌱 Currently Learning
+📈 I enjoy transforming raw data into meaningful insights, developing intelligent ML solutions, and building scalable software applications.
 
-- Advanced SQL
-- Power BI
-- Machine Learning
-- Data Visualization
-- Data Structures & Algorithms
+🌱 **Currently Learning**
+
+- 📊 Power BI
+- 🗄 Advanced SQL
+- 🤖 Machine Learning
+- 📈 Data Visualization
+- ☕ Spring Boot
 
 ---
 
@@ -35,91 +49,69 @@
 - 📊 Data Analyst
 - 📈 Business Analyst
 - 🤖 AI & ML Engineer
+- 💻 Software Developer
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 
-## Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,tensorflow,git,github,vscode,postman"/>
 
-## Data Analytics
+<br><br>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-## Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📈 Machine Learning Forecasting System
-
-- Time Series Forecasting using ARIMA, Prophet, LSTM and XGBoost
-- Feature Engineering
-- Data Preprocessing
-- REST API Integration
-
----
-
-## 📊 Data Analytics Projects
-
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Visualization
-- SQL Analytics
-- Business Insights
+| 🚀 Project | Technologies |
+|------------|--------------|
+| 📈 Machine Learning Forecasting System | Python, ARIMA, Prophet, LSTM, XGBoost |
+| 📊 Data Analytics Projects | Python, SQL, Pandas, NumPy, Excel |
+| 🤖 AI-Powered Freelancing Platform | Java, MongoDB, REST APIs |
+| 🗄 Database Management System | MySQL, SQLite, CRUD |
+| 🔥 Autonomous Fire Fighting Robot | Arduino Uno, Sensors, Embedded Systems |
 
 ---
 
-## 🗄 Database Management System
+# 📌 Core Skills
 
-- Relational Database Design
-- SQL CRUD Operations
-- Database Normalization
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Data Visualization
+
+✔ Machine Learning
+
+✔ SQL Query Optimization
+
+✔ REST API Development
+
+✔ Database Design
+
+✔ Python Programming
 
 ---
 
-## 🤖 AI-Powered Freelancing Platform
+# 📊 GitHub Activity
 
-- Java Backend
-- MongoDB
-- REST APIs
-- User Authentication
-- Project Management
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=transparent"/>
 
-## 🔥 Autonomous Fire Fighting Robot
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=transparent"/>
 
-- Arduino Uno
-- Flame Sensors
-- Water Pump Automation
-- Servo Motor
-- Relay Module
-- Embedded Systems
+</p>
 
 ---
 
@@ -137,9 +129,10 @@ https://ak1428.github.io/portfolio/
 
 <div align="center">
 
-### 📊 *"Without data, you're just another person with an opinion."*  
-— W. Edwards Deming
+### 📊 *"Without data, you're just another person with an opinion."*
 
-⭐ **Thank you for visiting my GitHub profile!**
+⭐ **Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
