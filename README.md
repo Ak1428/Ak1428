@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;AI+%26+ML+Engineer;Python+Developer;SQL+%7C+Python+%7C+Machine+Learning;Turning+Data+Into+Insights+📊"/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/Ak1428?style=for-the-badge&logo=github)](https://github.com/Ak1428?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viswa-akarsan-a6699928a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://ak1428.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:viswa.ak.0406@gmail.com)
