@@ -4,35 +4,33 @@
 
 ### 📊 Data Analyst | 🤖 AI & ML Engineer | 🐍 Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;AI+%26+ML+Engineer;Python+Developer;SQL+%7C+Python+%7C+Machine+Learning;Transforming+Data+into+Insights+📊" alt="Typing SVG" />
+**Turning Data into Insights through Analytics, Machine Learning, and Data-Driven Solutions**
 
-<br>
-
-<a href="https://www.linkedin.com/in/viswa-akarsan-a6699928a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://ak1428.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge" />
-</a>
-
-<a href="mailto:viswa.ak.0406@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswa-akarsan-a6699928a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ak1428.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viswa.ak.0406@gmail.com)
 
 </div>
 
 ---
 
-# 📊 About Me
+# 👨‍💻 About Me
 
-🎓 Final Year B.Tech in Computer Science & Engineering (AI & ML)
+🎓 Final Year B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-💡 Passionate about Data Analytics, Machine Learning, and Artificial Intelligence. I enjoy transforming raw data into meaningful insights and building intelligent, data-driven solutions.
+💡 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and solving real-world problems using data.
+
+🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Machine Learning
+- Data Visualization
+- Data Structures & Algorithms
 
 ---
 
-# 🎯 Target Roles
+# 🎯 Career Interests
 
 - 📊 Data Analyst
 - 📈 Business Analyst
@@ -42,38 +40,36 @@
 
 # 💻 Technical Skills
 
-### 👨‍💻 Programming Languages
+## Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,tensorflow" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Analytics
+## Data Analytics
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🛠 Tools
+## Machine Learning
 
-- Excel
-- Power BI (Learning)
-- Git
-- GitHub
-- VS Code
-- Postman
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-### 🗄 Databases
+## Databases
 
-- MySQL
-- SQLite
-- MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
@@ -81,31 +77,40 @@
 
 ## 📈 Machine Learning Forecasting System
 
-- Time Series Forecasting using ARIMA, Prophet, LSTM & XGBoost
+- Time Series Forecasting using ARIMA, Prophet, LSTM and XGBoost
 - Feature Engineering
 - Data Preprocessing
 - REST API Integration
 
+---
+
 ## 📊 Data Analytics Projects
 
-- Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Dashboard Development
+- Data Cleaning
+- Data Visualization
 - SQL Analytics
+- Business Insights
+
+---
 
 ## 🗄 Database Management System
 
 - Relational Database Design
-- CRUD Operations
-- SQL Queries
+- SQL CRUD Operations
 - Database Normalization
+
+---
 
 ## 🤖 AI-Powered Freelancing Platform
 
-- Java
+- Java Backend
 - MongoDB
 - REST APIs
-- Authentication
+- User Authentication
+- Project Management
+
+---
 
 ## 🔥 Autonomous Fire Fighting Robot
 
@@ -114,44 +119,27 @@
 - Water Pump Automation
 - Servo Motor
 - Relay Module
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ak1428&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ak1428&theme=tokyonight&margin-w=10"/>
-</p>
+- Embedded Systems
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** viswa.ak.0406@gmail.com
+📧 **Email:** **viswa.ak.0406@gmail.com**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/viswa-akarsan-a6699928a
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/viswa-akarsan-a6699928a
 
-🌐 **Portfolio:** https://ak1428.github.io/portfolio/
+🌐 **Portfolio:**  
+https://ak1428.github.io/portfolio/
 
 ---
 
 <div align="center">
 
-### 📊 *"Without data, you're just another person with an opinion."*
+### 📊 *"Without data, you're just another person with an opinion."*  
+— W. Edwards Deming
 
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ **Thank you for visiting my GitHub profile!**
 
 </div>
