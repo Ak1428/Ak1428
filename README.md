@@ -103,16 +103,13 @@
 
 ---
 
-# 📊 GitHub Activity
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ak1428&show_icons=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak1428&layout=compact&theme=transparent"/>
-
-</p>
-
+- 📊 Power BI for Business Intelligence
+- 🐍 Python for Data Analytics
+- 🗄 Advanced SQL
+- 🤖 Machine Learning
+- 📈 Data Visualization
 ---
 
 # 📫 Connect With Me
