@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;AI+%26+ML+Engineer;Python+Developer;Turning+Data+into+Insights+📊"/>
 
+<img src="https://komarev.com/ghpvc/?username=Ak1428&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viswa-akarsan-a6699928a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://ak1428.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Gmail-viswa.ak.0406%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:viswa.ak.0406@gmail.com)
